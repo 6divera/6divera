@@ -7,4 +7,4 @@
 
 
 
-- Spaceware, Alora, Intel and Elysium.
+- Spaceware, Alora, Loop, Intel and Elysium.
