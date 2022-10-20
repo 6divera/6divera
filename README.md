@@ -6,7 +6,7 @@
 
 
 ## Projects
-- [Alora](https://github.com/6divera/projects/tree/main/alora) | (Dead)
-- [Loop](https://github.com/6divera/loop) | Open sourced.
-- [Elysium](https://github.com/6divera/projects/tree/main/elysium) | (Dead)
-- [Spaceware](https://github.com/6divera/projects/tree/main/spaceware) (Alive)
+- [Alora](https://github.com/6divera/projects/tree/main/alora) | Da Hood
+- [Loop](https://github.com/6divera/loop) | Da Hood
+- [Elysium](https://github.com/6divera/projects/tree/main/elysium) | Phantom Forces
+- [Spaceware](https://github.com/6divera/projects/tree/main/spaceware) | Da Hood, Arsenal, Evades, Strucid, Phantom Forces.
